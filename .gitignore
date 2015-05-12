@@ -1,8 +1,12 @@
 .gradle
-build/
-
-# Ignore Gradle GUI config
+.ivy2.cache
+build
+out
+gradle
+gradlew*
+*.iml
+*.ipr
+*.iws
 gradle-app.setting
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+classes
+.idea
