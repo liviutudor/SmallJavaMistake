@@ -11,3 +11,5 @@ repositories {
 dependencies {
     compile 'com.google.guava:guava:15.0'
 }
+
+mainClassName='Library'
